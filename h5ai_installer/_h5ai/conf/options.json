@@ -85,7 +85,7 @@ Options
 	The file's content will be placed inside a <div/> tag above/below the main content.
 	*/
 	"custom": {
-		"enabled": false
+		"enabled": true
 	},
 
 	/* [EXPERIMENTAL]
